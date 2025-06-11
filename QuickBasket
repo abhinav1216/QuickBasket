@@ -19,7 +19,7 @@
 <body>
 
 <header>
-  <h1>QuickBasket</h1>
+  <img src="logo.png" alt="QuickBasket Logo" style="height: 60px;">
   <p>Your Fresh Grocery Delivered Fast</p>
 </header>
 
@@ -38,7 +38,7 @@
   <h2>Our Products</h2>
   <div class="products">
     <div class="product">
-      <img src="https://via.placeholder.com/200x150.png?text=Apples" alt="Apples">
+      <img src="https://images.unsplash.com/photo-1567306226416-28f0efdc88ce" alt="Apples">
       <h3>Fresh Apples</h3>
       <p>₹120/kg</p>
     </div>
@@ -73,3 +73,9 @@
 </body>
 </html>
 # QuickBasket
+| Product  | Image URL                                                      |
+| -------- | -------------------------------------------------------------- |
+| Apples   | `https://images.unsplash.com/photo-1567306226416-28f0efdc88ce` |
+| Milk     | `https://images.unsplash.com/photo-1582719478170-9694a2b1cb64` |
+| Tomatoes | `https://images.unsplash.com/photo-1584306672410-45b22f6737a5` |
+| Rice     | `https://images.unsplash.com/photo-1611080626919-d7729c6c485a` |
